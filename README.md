@@ -4,7 +4,7 @@ Unofficial TradingView Desktop Version built with [Electron](https://www.electro
 
 ![](assets/images/screenshot.png)
 
-[简体中文](README.zh.md)
+
 
 # Features
 * Block ads
